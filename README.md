@@ -36,3 +36,8 @@ Database Interface:
 Vector Database:
 
 - The actual database behind the database interface. In this demo, it is MS SQL Database
+
+
+Database diagrams:
+
+![image](https://github.com/ttkiviranta/ChatGPT-API/assets/22675135/3b10ed74-6a74-4cd6-b39f-6168baa8d7ab)
