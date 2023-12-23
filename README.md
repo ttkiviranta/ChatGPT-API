@@ -7,7 +7,7 @@ General Idea of this demo:
 5. Combine chunks and questions as a prompt, feed it to GPT
 6. Get the response from GPT
 
-Design:
+Architecture:
 ![image](https://github.com/ttkiviranta/ChatGPT-API/assets/22675135/23689099-69e2-4e7e-b13c-6bb711778bb7)
 
 As described in the above section, actors can do two things:
